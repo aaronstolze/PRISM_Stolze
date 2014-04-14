@@ -36,3 +36,11 @@ The following waveform was created when testing the ALU:
 
 Once the ALU was completed the next step was to create the datapath.  Following the given directions in the Datapath shell, the necessary registers were implemented.  The following waveform was generated: 
 
+![alt text](https://raw.githubusercontent.com/aaronstolze/PRISM_Stolze/master/Datapath_Waveform.PNG "ALU Waveform")
+
+
+# Reverse Engineering 
+
+By observing the conditions I had set above for my ALU, I was able to confirm that the waveform generated in the simulation was indeed correct.  
+
+I was not able to get the Datapath functioning fully as demonstrated by the waveform generated.  
