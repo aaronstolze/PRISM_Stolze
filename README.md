@@ -32,3 +32,7 @@ The following waveform was created when testing the ALU:
 ![alt text](https://raw.githubusercontent.com/aaronstolze/PRISM_Stolze/master/ALU_Waveform.PNG "ALU Waveform")
 
 
+
+
+Once the ALU was completed the next step was to create the datapath.  Following the given directions in the Datapath shell, the necessary registers were implemented.  The following waveform was generated: 
+
