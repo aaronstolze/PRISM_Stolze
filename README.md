@@ -22,7 +22,10 @@ The IN command takes the Data information and replaces the value of the Accumula
 
 The ADD command combines the Data and Accumulator.
 
-The LD command loads the value into the Accumulator.  
+The LD command loads the value into the Accumulator. 
+
+
+
 
 The following waveform was created when testing the ALU: 
 
